@@ -1,3 +1,3 @@
-# SEC Pull SDK
+# SecPull SDK
 
 TBD
